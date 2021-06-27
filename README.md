@@ -1,4 +1,5 @@
 # python
-Python Programmes for Dummies
-Hi, this is the way I code,
-Help me to get it better by raising isues and commenting.
+Libraries required for this 
+Pytesseract: conda install -c conda-forge pytesseract
+Tesseract: conda install -c conda-forge tesseract**
+**Note:**Please Ensure that above two libraries are installed before running this code.
